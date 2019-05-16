@@ -1,0 +1,24 @@
+{
+  "name": "ms-redux-tutorial",
+  "version": "1.0.0",
+  "description": "## Why use Redux? - State management becomes increasingly complex in large applications. (E.g. root component becomes too big, unnecessary chains of data passed down) - Better flow control, easier to detect infinite loops - Better performance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oxhagolli/ms-redux-tutorial.git"
+  },
+  "author": "Orens Xhagolli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oxhagolli/ms-redux-tutorial/issues"
+  },
+  "homepage": "https://github.com/oxhagolli/ms-redux-tutorial#readme",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "redux": "^4.0.1"
+  }
+}
